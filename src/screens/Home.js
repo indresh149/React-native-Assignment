@@ -22,7 +22,7 @@ const Home = (props) => {
             {
               fontSize: 33,
               color: "#4c5dab",
-              marginTop: 0,
+             
             },
           ]}>
           {props.channelName}
@@ -83,7 +83,7 @@ const styles = StyleSheet.create({
   paraStyle: {
     textAlign: "left",
     fontSize: 19,
-    color: "#7d7d7d",
+    color: "#020202",
     marginTop: 30,
     paddingBottom: 50,
     lineHeight: 26,
