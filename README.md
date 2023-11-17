@@ -1,16 +1,8 @@
-# Coding-Tutorial-App---React-Native
+Steps to run on local machine
+1. CLone the repository
+2. Intall npm modules in the directory of project.
+3. Run npm start.
 
-# Start-Page-
-![alt tag](https://i.imgur.com/iWkddRf.jpg)
 
-# Course-Page-
-![alt tag](https://i.imgur.com/uHCCXcK.jpg)
 
-# About-Page-
-![alt tag](https://i.imgur.com/pxy71rN.jpg)
 
-# ContactUs-Page-
-![alt tag](https://i.imgur.com/x9Z3Ift.jpg)
-
-# StudentData-Page-
-![alt tag](https://i.imgur.com/OCd5dJG.jpg)
